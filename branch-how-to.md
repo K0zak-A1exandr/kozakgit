@@ -1,5 +1,5 @@
-# BRANCHES
+branch-how-to.md
 
-- if you want to know how to use branches visit _https://lmgtfy.app/?q=gitchub+branches_
-
-- added some new line
+1. mnogo
+2. mnogo
+3. vetok
